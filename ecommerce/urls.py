@@ -1,8 +1,8 @@
 """
 
 Developed By : Siva Veludurthi
-facebook : fb.com/sumit.luv
-Youtube :youtube.com/lazycoders
+facebook : fb.com/Siva Veludurthi
+Youtube :youtube.com/Siva Veludurthi
 
 
 """
